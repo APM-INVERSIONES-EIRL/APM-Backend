@@ -30,3 +30,8 @@ six==1.16.0
 
 # Servidor WSGI para producción
 gunicorn==22.0.0
+celery==5.5.3
+django-celery-beat==2.8.1
+
+# Mysql
+mysqlclient==2.2.7
